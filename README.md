@@ -41,8 +41,13 @@ Images:
 *Software Requirements:*
 
 Project Info:
+
 Contributors: Rushabh Shah.
+
 Languages: Python.
+
 Tools/IDE: Colab
+
 Libraries: pandas, matplotlib, sklearn, yellowbrick.cluster.
+
 Duration: Novermber 2020.
