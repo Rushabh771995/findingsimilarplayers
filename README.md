@@ -50,4 +50,4 @@ Tools/IDE: Colab
 
 Libraries: pandas, matplotlib, sklearn, yellowbrick.cluster.
 
-Duration: Novermber 2020.
+Duration: November 2020.
