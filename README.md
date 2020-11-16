@@ -31,7 +31,7 @@ Notebooks:
 
 ["EDA"](https://github.com/Rushabh771995/findingsimilarplayers/blob/main/Notebooks/EDA.ipynb)
 
-["Finding Similar Players"] (https://github.com/Rushabh771995/findingsimilarplayers/blob/main/Notebooks/Similar_Players_Report.ipynb)
+["Finding Similar Players"](https://github.com/Rushabh771995/findingsimilarplayers/blob/main/Notebooks/Similar_Players_Report.ipynb)
            
 
 Images:
